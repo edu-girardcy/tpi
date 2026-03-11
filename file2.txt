@@ -1,1 +1,2 @@
 modif github
+modif locale
